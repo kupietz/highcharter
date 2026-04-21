@@ -13,6 +13,12 @@ dev/*/rsconnect/*
 # RStudio files
 .Rproj.user/
 
+# R CMD check results
+*.Rcheck/
+
+# R package archives
+*.tar.gz
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf

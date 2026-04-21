@@ -1,4 +1,4 @@
-# highcharter 0.9.4.9000
+# highcharter 0.9.5
 
 ## Bugs
 
